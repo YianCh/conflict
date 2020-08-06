@@ -1,8 +1,8 @@
 package xxx;
 
 public class CubeTest {
-	private String atPower;
 	private String atLost;
+	
 	
 	public static void main(String[] args) {
 		try {
