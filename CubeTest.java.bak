@@ -1,7 +1,7 @@
 package xxx;
 
 public class CubeTest {
-	private String atPower123;
+	private String atPower;
 	
 	
 	public static void main(String[] args) {
