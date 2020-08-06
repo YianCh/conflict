@@ -1,8 +1,13 @@
 package xxx;
 
 public class CubeTest {
+<<<<<<< HEAD
+	private String atPower;
 	private String atLost;
+=======
+	private String atPower123;
 	
+>>>>>>> hotfix
 	
 	public static void main(String[] args) {
 		try {
